@@ -166,7 +166,6 @@ button:hover {
     grid-row: 2 / 3;
     background-color: #ffffff;
     display: grid;
-    overflow-wrap: normal;
     gap: 20px;    
     grid-template: 1.2fr 1fr / 2.5fr 1fr;
     padding: 30px 20px;
